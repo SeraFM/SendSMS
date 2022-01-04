@@ -1,2 +1,2 @@
-# SendSMS
-Send SMS free International 
+# Send SMS
+Send SMS Free International 
